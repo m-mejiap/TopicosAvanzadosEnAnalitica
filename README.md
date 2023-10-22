@@ -1,6 +1,6 @@
 # Tópicos Avanzados En Analítica
 
-En este repositorio se encuentra el desarrollo de las tareas del módulo de procesamiento de lenguaje natural. 
+En este repositorio se encuentra el desarrollo de las tareas correspondientes a los módulos de procesamiento de lenguaje natural y grafos. 
 
 ## Integrantes del equipo:
 
